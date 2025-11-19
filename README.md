@@ -1,1 +1,3 @@
-# test_code
+This project analyzes traffic patterns across multiple junctions and predicts vehicle counts using machine learning. The dataset includes timestamp-based features such as hour, day, weekend indicators, and vehicle volumes. After preprocessing and exploratory data analysis, models like Linear Regression and Random Forest were implemented, with Random Forest delivering the best accuracy.
+
+The workflow includes data cleaning, visualization, feature engineering, model training, and performance evaluation. Results reveal clear traffic trends such as peak hours and weekday–weekend variations. Future enhancements include real-time traffic integration, advanced ML models, and dashboard deployment.
